@@ -2,12 +2,14 @@
 apiVersion: featuremanagement.cloudbees.io/v1alpha1
 kind: target-group
 
-name: TG1
+name: NandhaTest
 
 description: 
 
 conditions:
   allOf:
     - property:
-        name: Test-boolean-property
-        operator: is-true
+        name: contentPartner
+        operator: eq
+        operands:
+            - 216
