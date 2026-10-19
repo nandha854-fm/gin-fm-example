@@ -4,7 +4,7 @@ kind: flag
 
 flag: ShowMessage
 flagType: boolean
-description: ""
+description: "Enables new\t\t\tcheckout for beta users"
 labels:
 
 availableValues:

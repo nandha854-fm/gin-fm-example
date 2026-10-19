@@ -4,10 +4,10 @@ kind: flag-configuration
 
 flag: ShowMessage
 
-enabled: false
+enabled: true
 
 stickinessProperty: rox.distinct_id
 
-defaultValue: true
+defaultValue: false
 
 conditions: []
