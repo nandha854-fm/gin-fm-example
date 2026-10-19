@@ -4,7 +4,7 @@ kind: flag
 
 flag: ShowMessage
 flagType: boolean
-description: "Enables new checkout for beta test"
+description: "Test \t\ttab"
 labels:
 
 availableValues:
