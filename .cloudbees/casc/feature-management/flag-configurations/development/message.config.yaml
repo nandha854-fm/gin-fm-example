@@ -4,11 +4,10 @@ kind: flag-configuration
 
 flag: message
 
-enabled: false
+enabled: true
 
 stickinessProperty: rox.distinct_id
 
-defaultValue:
-  valueWrittenInCode: true
+defaultValue: Test From CBP
 
 conditions: []
