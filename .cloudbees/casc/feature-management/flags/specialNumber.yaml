@@ -1,0 +1,15 @@
+---
+apiVersion: featuremanagement.cloudbees.io/v1alpha1
+kind: flag
+
+flag: specialNumber
+flagType: number
+description: ""
+labels:
+
+availableValues:
+  - "2.71"
+  - "0.577"
+  - "3.14"
+
+isPermanent: false
