@@ -8,6 +8,6 @@ enabled: true
 
 stickinessProperty: rox.distinct_id
 
-defaultValue: This is the default message; try changing some flag values!
+defaultValue: test message
 
 conditions: []
